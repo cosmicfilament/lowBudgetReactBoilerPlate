@@ -1,7 +1,7 @@
 # Extremely Mediocre Low Budget React Boiler Platelet
 
 This project assumes that you have installed it in a directory called ReactTemplate
-If you install it in any other directory you will need to modify package.json.add
+If you install it in any other directory you will need to modify the shell script RUNME.sh
 
 I use this package with git bash to:
 
