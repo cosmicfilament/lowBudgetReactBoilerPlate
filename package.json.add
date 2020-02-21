@@ -1,0 +1,12 @@
+	// replace scripts in package.json and add the babel key/value pair
+  //
+  "scripts": {
+		"start": "react-app-rewired start",
+		"build": "react-app-rewired build",
+		"eject": "react-scripts eject"
+	},
+	"babel": {
+		"plugins": [
+			"babel-plugin-styled-components"
+		]
+	}
