@@ -17,4 +17,10 @@ I use this package with git bash to:
 
 6. add a few vscode specific files and that's about it.
 
-Not sure how useful this will be to anyone else, but all are free to use it.
+Not sure how useful this will be to anyone else, but all are free to use it
+
+To use the package, in git bash cd into the ReactTemplate directory and run the shell script RUNME.sh with the name of the react project that you want to create as the argument to the script.
+
+Take a look at the RUNME.sh file and you will see exactly what is going on here.
+
+It is pretty simple.
